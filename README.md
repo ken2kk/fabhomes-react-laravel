@@ -9,4 +9,4 @@ This repository houses the separate prototype build for the Fab Homes Uganda web
 ## Contribution Workflow
 1. **Never push directly to `main`.** Always create a feature branch (e.g., `feature/savings-scheme` or `fix/catalog-ui`).
 2. Open a **Pull Request (PR)** against the `main` branch once your feature is complete.
-3. Wait for code review and approval from `@K` before merging into production deployment streams.
+3. Wait for code review and approval from `@Ken` before merging into production deployment streams.
